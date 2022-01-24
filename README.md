@@ -3,5 +3,5 @@
 > C로 구현하기 앞서, 파이썬으로 이해
 
 There are two files.
-first, not importing thread version.
+first, not importing thread version.  
 second, importing thread version.
