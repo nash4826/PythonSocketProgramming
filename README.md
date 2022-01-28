@@ -1,7 +1,9 @@
 # PythonSocketProgramming
-- 소켓 프로그래밍
 
-> 파이썬 소켓프로그래밍 이해
+## Language
+- Python
+
+## Code
 
 >멀티 스레드를 import하지 않은 코드
 >- [Server](socket/server.py)
